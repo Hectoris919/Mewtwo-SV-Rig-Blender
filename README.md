@@ -12,4 +12,12 @@
 
 Nearly identical to the old rig but with many more controls to make it easier to animate.
 
-![controls](https://github.com/Hectoris919/Mewtwo-SV-Rig-Blender/assets/47396668/e70879f6-c677-4b4b-9f76-963b7b2b8076)
+![controls](https://github.com/Hectoris919/Mewtwo-SV-Rig-Blender/assets/47396668/2f710355-cdf7-4ab4-b4cc-4e7b2a22a1e5)
+
+## You can now change the colors of the model.
+
+The color settings are hidden by default, slide the top slider to Shiny, then slide the Custom slider to reveal the Color sliders, ranging from 0 to 1 instead of 0 to 255. Negative and large numbers can result in weird colors
+
+| Example | Result |
+| --- | --- |
+| ![customcoloring1](https://github.com/Hectoris919/Mewtwo-SV-Rig-Blender/assets/47396668/5f6258ae-9064-47f3-9fe9-05a076af65d2) | ![customcoloring2](https://github.com/Hectoris919/Mewtwo-SV-Rig-Blender/assets/47396668/86f82dee-0789-4400-9490-14b3e1e6b046) |
