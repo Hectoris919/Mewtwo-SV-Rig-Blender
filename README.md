@@ -64,7 +64,7 @@ New features:
 > This applies for any motion you want to be part of the ragdoll
 
 > [!WARNING]
-> If you have IK Stretch enabled and stretch the arms or legs of the rig before going into a ragdoll, it might result in strange effects.
+> If you have IK Stretch enabled and stretch the arms or legs of the rig before going into a ragdoll, it might result in strange ragdoll behaviour.
 > 
 > I recommend leaving this setting at 0.0 if you don't want to run into any issues while ragdolling.
 > 
