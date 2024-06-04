@@ -58,14 +58,12 @@ New features:
 
 > [!TIP]
 > If you want to throw Mewtwo at something, make sure to turn on the ragdoll right before the rig stops moving during the launch sequence.
->
 > Otherwise mewtwo will not gain any momentum and just drop to the ground.
 >
-> This applies for any motion you want to be part of the ragdoll
+> **This applies for any motion you want to be part of the ragdoll**
 
 > [!WARNING]
 > If you have IK Stretch enabled and stretch the arms or legs of the rig before going into a ragdoll, it might result in strange ragdoll behaviour.
-> 
 > I recommend leaving this setting at 0.0 if you don't want to run into any issues while ragdolling.
 > 
 > ![image](https://github.com/Hectoris919/Mewtwo-SV-Rig-Blender/assets/47396668/f9c8e322-ec99-463a-a49d-64f5ea94d037)
